@@ -67,5 +67,5 @@ Ofrecer una herramienta visual y estratégica que facilite:
 - Reducir fricción operativa puede proteger ingresos y permanencia.
 
 ## Enlace del Proyecto
-Puedes descargar el archivo del dashboard en este enlace:
+Puedes descargar el archivo del dashboard en este repositorio.
 
