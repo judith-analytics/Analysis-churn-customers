@@ -60,6 +60,12 @@ Ofrecer una herramienta visual y estratégica que facilite:
 - Mejorar la experiencia de atención al cliente  
 - Impulsar decisiones basadas en datos
 
+## Archivos Incluidos
+
+- Imágenes del proyecto
+- Archivo .pbix del dashboard  
+- Documentación en README
+  
 ## Conclusiones Generales
 - El churn aumenta significativamente después de 5+ llamadas a soporte.  
 - La atención al cliente tiene impacto directo en la retención.  
