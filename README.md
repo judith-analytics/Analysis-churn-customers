@@ -14,7 +14,7 @@ El dashboard fue diseñado con un enfoque ejecutivo, organizado en tres seccione
 
 ## Resumen General
 
-Esta sección ofrece una visión global del impacto del churn en el negocio.
+Esta sección ofrece una visión global del impacto del abandono en el negocio.
 
 Indicadores principales:
 - Clientes perdidos  
