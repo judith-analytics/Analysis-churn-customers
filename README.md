@@ -3,15 +3,19 @@
 # Análisis de Abandono de Clientes — Power BI Dashboard
 
 ## Descripción del Proyecto
+
 Este proyecto presenta un análisis integral del abandono de clientes mediante un dashboard en Power BI. El objetivo es identificar señales tempranas de churn, medir el impacto en ingresos y detectar segmentos con mayor riesgo de pérdida.
 
 El dashboard fue diseñado con un enfoque ejecutivo, organizado en tres secciones principales:
+
 - Resumen General  
 - Atención al Cliente y Riesgo  
 - Segmentos Estratégicos
 
 ## Resumen General
+
 Esta sección ofrece una visión global del impacto del churn en el negocio.
+
 Indicadores principales:
 - Clientes perdidos  
 - Tasa de abandono  
@@ -20,7 +24,9 @@ Indicadores principales:
 - Fricción de abandono
 
 ## Atención al Cliente y Riesgo
+
 Vista enfocada en factores asociados al abandono.
+
 Análisis incluidos:
 - Abandono por número de llamadas a soporte  
 - Umbral crítico entre 4 y 5 llamadas  
@@ -28,7 +34,9 @@ Análisis incluidos:
 - Impacto en ingresos
 
 ## Segmentos Estratégicos
+
 Sección dedicada a identificar grupos prioritarios.
+
 Análisis incluidos:
 - Riesgo por edad  
 - Riesgo por género  
@@ -36,13 +44,16 @@ Análisis incluidos:
 - Clientes valiosos en riesgo de abandono
 
 ## Tecnologías Utilizadas
+
 - Power BI (visualización y modelado)  
 - DAX (medidas y KPIs)  
 - Kaggle Dataset (customer_churn_dataset-training-master)
 - Excel / CSV (validación de datos)
 
 ## Modelo de Datos
+
 El análisis utiliza una tabla principal de clientes con variables demográficas, operativas y financieras.
+
 Principales campos utilizados:
 - CustomerID  
 - Age  
@@ -53,6 +64,7 @@ Principales campos utilizados:
 - Churn
 
 ## Objetivo del Dashboard
+
 Ofrecer una herramienta visual y estratégica que facilite:
 - Detectar señales tempranas de abandono  
 - Reducir pérdida de ingresos  
@@ -65,8 +77,25 @@ Ofrecer una herramienta visual y estratégica que facilite:
 - Imágenes del proyecto
 - Archivo .pbix del dashboard  
 - Documentación en README
+
+## Vista del Dashboard
+
+![Portada](01_Title.png)
+
+---
+
+![Resumen General](02_Summary.png)
+
+---
+
+![Atención al Cliente y Riesgo](03_Customer_service.png)
+
+---
+
+![Segmentos Estratégicos](04_Segments.png)
   
 ## Conclusiones Generales
+
 - El churn aumenta significativamente después de 5+ llamadas a soporte.  
 - La atención al cliente tiene impacto directo en la retención.  
 - Los clientes de mayor valor muestran señales relevantes de riesgo.  
