@@ -96,7 +96,7 @@ Ofrecer una herramienta visual y estratégica que facilite:
   
 ## Conclusiones Generales
 
-- El churn aumenta significativamente después de 5+ llamadas a soporte.  
+- El abandono aumenta significativamente después de 5+ llamadas a soporte.  
 - La atención al cliente tiene impacto directo en la retención.  
 - Los clientes de mayor valor muestran señales relevantes de riesgo.  
 - Reducir fricción operativa puede proteger ingresos y permanencia.
