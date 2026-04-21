@@ -4,7 +4,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto presenta un análisis integral del abandono de clientes mediante un dashboard en Power BI. El objetivo es identificar señales tempranas de churn, medir el impacto en ingresos y detectar segmentos con mayor riesgo de pérdida.
+Este proyecto presenta un análisis integral del abandono de clientes mediante un dashboard en Power BI. El objetivo es identificar señales tempranas de abandono, medir el impacto en ingresos y detectar segmentos con mayor riesgo de pérdida.
 
 El dashboard fue diseñado con un enfoque ejecutivo, organizado en tres secciones principales:
 
